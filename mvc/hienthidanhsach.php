@@ -72,7 +72,6 @@
                     }
                 ?>
 
-                    <!-- Đoạn này thay đổi theo Dữ liệu trong CSDL -->
                 </tbody>
             </table>
 
