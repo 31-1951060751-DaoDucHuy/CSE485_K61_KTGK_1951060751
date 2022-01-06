@@ -121,7 +121,6 @@ include "config.php";
 </html>
 
 
-<!-- phần xử lý -->
 
 <?php
  if(isset($_POST['submit'])){
